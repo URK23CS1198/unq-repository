@@ -1,0 +1,4 @@
+URK23CS1125
+<PIL. Png ImagePlugin. PngimageFile image mode RGB size-1200x719 at 0x1F43714EC70>
+Image Width: 1200
+Image Height: 718
